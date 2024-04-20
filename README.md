@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Tech
 - 🌱 I’m currently learning Cloud DevOps Engineering
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me via stephencharles02@gmail.com
+- 📫 You can reach me via stephencharles02@gmail.com
 
 <!---
 iyketheintrovert/iyketheintrovert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
